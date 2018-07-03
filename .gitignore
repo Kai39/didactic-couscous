@@ -1,0 +1,13 @@
+.idea/artifacts/
+.idea/compiler.xml
+.idea/encodings.xml
+.idea/inspectionProfiles/
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/workspace.xml
+didactic-couscous.iml
+eureka-client/src/test/
+eureka-client/target/
+eureka-server/src/test/
+eureka-server/target/
