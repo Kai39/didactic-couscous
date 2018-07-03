@@ -11,3 +11,4 @@ eureka-client/src/test/
 eureka-client/target/
 eureka-server/src/test/
 eureka-server/target/
+*.iml
