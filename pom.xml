@@ -13,6 +13,7 @@
         <module>eureka-server</module>
         <module>eureka-client</module>
         <module>service-ribbon</module>
+        <module>service-feign</module>
     </modules>
 
     <!-- 定义各依赖版本号 -->
@@ -24,6 +25,7 @@
         <spring-cloud.version>Finchley.RELEASE</spring-cloud.version>
         <spring-boot.version>2.0.3.RELEASE</spring-boot.version>
         <lombok.version>1.18.0</lombok.version>
+        <feign.version>8.18.0</feign.version>
     </properties>
 
     <!-- 声明依赖但并不实现引入 -->
@@ -53,6 +55,7 @@
                 <type>pom</type>
                 <scope>import</scope>
             </dependency>
+
         </dependencies>
     </dependencyManagement>
 
